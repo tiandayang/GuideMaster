@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7E7C7BB71DC087F100BF8490 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E7C7BB61DC087F100BF8490 /* LaunchScreen.storyboard */; };
+		7EA787531DC08CC600AFCD76 /* README in Resources */ = {isa = PBXBuildFile; fileRef = 7EA787521DC08CC600AFCD76 /* README */; };
 		7EE757601DBF6B45008B8534 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE7575F1DBF6B45008B8534 /* main.m */; };
 		7EE757631DBF6B45008B8534 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE757621DBF6B45008B8534 /* AppDelegate.m */; };
 		7EE757661DBF6B45008B8534 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EE757651DBF6B45008B8534 /* ViewController.m */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		7E7C7BB61DC087F100BF8490 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7EA787521DC08CC600AFCD76 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		7EE7575B1DBF6B45008B8534 /* GuideMaster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuideMaster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EE7575F1DBF6B45008B8534 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7EE757611DBF6B45008B8534 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -45,6 +47,7 @@
 		7EE757521DBF6B45008B8534 = {
 			isa = PBXGroup;
 			children = (
+				7EA787521DC08CC600AFCD76 /* README */,
 				7EE7575D1DBF6B45008B8534 /* GuideMaster */,
 				7EE7575C1DBF6B45008B8534 /* Products */,
 			);
@@ -142,6 +145,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7EA787531DC08CC600AFCD76 /* README in Resources */,
 				7E7C7BB71DC087F100BF8490 /* LaunchScreen.storyboard in Resources */,
 				7EE7576B1DBF6B45008B8534 /* Assets.xcassets in Resources */,
 				7EE757691DBF6B45008B8534 /* Main.storyboard in Resources */,
